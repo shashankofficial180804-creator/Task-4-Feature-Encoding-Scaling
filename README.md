@@ -50,3 +50,20 @@ This task was completed as part of an AI & ML Internship (Task 4).
 
 7️⃣ Dataset Export
 	•	Final preprocessed dataset saved as adult_processed.csv
+
+📊 Why Scaling is Important-
+Feature scaling improves performance of algorithms such as:
+	•	K-Nearest Neighbors (KNN)
+	•	Support Vector Machines (SVM)
+	•	Logistic Regression
+	•	Linear Regression
+	•	Neural Networks
+
+✅ Final Outcome
+	•	Dataset converted into ML-ready numerical format
+	•	Clear understanding of feature engineering concepts
+	•	Visual and statistical proof of scaling impact
+
+
+🏁 Conclusion:
+This project provides hands-on experience with real-world data preprocessing techniques that are critical in machine learning pipelines. It strengthens understanding of how encoding and scaling directly influence model performance
